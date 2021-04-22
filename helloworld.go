@@ -160,7 +160,7 @@ func main() {
 		if target == "" {
 			target = "World"
 		}
-		msg = "Hello " + target + " from the IBM Cloud Customer Advisory Council V3. I am "
+		msg = "Hello " + target + " from the IBM Cloud Customer Advisory Council V4. I am "
 	}
 
 	// Get the list of env vars, and sort them for easy reading
